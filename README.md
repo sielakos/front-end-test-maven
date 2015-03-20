@@ -1,4 +1,4 @@
 # front-end-test-maven
 
-to run test type:
+to run tests type:
 ``mvn clean install``
